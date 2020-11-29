@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\zerooo css"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "zerooo css"
+	}
+}
